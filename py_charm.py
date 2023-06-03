@@ -20,3 +20,4 @@ def pora_roky02():
         print("Уроці тількі 12 місяців \nВведіть число від 1 до 12")
 
 pora_roky02()
+# new comment
