@@ -21,3 +21,4 @@ def pora_roky02():
 
 pora_roky02()
 # new comment
+# new comment 2
