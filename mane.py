@@ -7,3 +7,5 @@ def mane_function(s):
         print(f"Hello, {s}!")
 
 mane_function(10)
+def test_function():
+    pass
