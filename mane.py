@@ -9,3 +9,5 @@ def mane_function(s):
         print(f"Hello, {s}!")
 
 mane_function(11)
+def test_function(x,y,z):
+    return (x+y-z)
